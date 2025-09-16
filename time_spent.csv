@@ -1,0 +1,245 @@
+Goal,Time(seconds)
+grab(bench),7
+grab(backpack),5
+grab(umbrella),4
+grab(handbag),4
+grab(tie),3
+grab(suitcase),6
+grab(frisbee),3
+grab(skis),6
+grab(snowboard),6
+grab(sports ball),3
+grab(kite),4
+grab(baseball bat),5
+grab(baseball glove),4
+grab(skateboard),5
+grab(tennis racket),4
+grab(bottle),2
+grab(wine glass),2
+grab(cup),2
+grab(fork),2
+grab(knife),2
+grab(spoon),2
+grab(bowl),3
+grab(banana),2
+grab(apple),2
+grab(sandwich),3
+grab(orange),2
+grab(broccoli),3
+grab(carrot),2
+grab(hot dog),3
+grab(pizza),3
+grab(donut),2
+grab(cake),3
+grab(chair),5
+grab(couch),7
+grab(potted plant),4
+grab(dining table),8
+grab(laptop),3
+grab(mouse),2
+grab(remote),3
+grab(keyboard),3
+grab(cell phone),2
+grab(toaster),3
+grab(book),3
+grab(vase),3
+grab(scissors),2
+grab(teddy bear),4
+grab(hair drier),3
+grab(toothbrush),2
+push(bench),6
+push(backpack),5
+push(umbrella),4
+push(handbag),4
+push(tie),3
+push(suitcase),6
+push(frisbee),3
+push(skis),6
+push(snowboard),6
+push(sports ball),3
+push(kite),4
+push(baseball bat),5
+push(baseball glove),4
+push(skateboard),5
+push(tennis racket),4
+push(bottle),2
+push(wine glass),2
+push(cup),2
+push(fork),2
+push(knife),2
+push(spoon),2
+push(bowl),3
+push(banana),2
+push(apple),2
+push(sandwich),3
+push(orange),2
+push(broccoli),3
+push(carrot),2
+push(hot dog),3
+push(pizza),3
+push(donut),2
+push(cake),3
+push(chair),5
+push(couch),7
+push(potted plant),4
+push(dining table),8
+push(laptop),3
+push(mouse),2
+push(remote),3
+push(keyboard),3
+push(cell phone),2
+push(toaster),3
+push(book),3
+push(vase),3
+push(scissors),2
+push(teddy bear),4
+push(hair drier),3
+push(toothbrush),2
+place(bench),6
+place(backpack),5
+place(umbrella),4
+place(handbag),4
+place(tie),3
+place(suitcase),6
+place(frisbee),3
+place(skis),6
+place(snowboard),6
+place(sports ball),3
+place(kite),4
+place(baseball bat),5
+place(baseball glove),4
+place(skateboard),5
+place(tennis racket),4
+place(bottle),2
+place(wine glass),2
+place(cup),2
+place(fork),2
+place(knife),2
+place(spoon),2
+place(bowl),3
+place(banana),2
+place(apple),2
+place(sandwich),3
+place(orange),2
+place(broccoli),3
+place(carrot),2
+place(hot dog),3
+place(pizza),3
+place(donut),2
+place(cake),3
+place(chair),5
+place(couch),7
+place(potted plant),4
+place(dining table),8
+place(laptop),3
+place(mouse),2
+place(remote),3
+place(keyboard),3
+place(cell phone),2
+place(toaster),3
+place(book),3
+place(vase),3
+place(scissors),2
+place(teddy bear),4
+place(hair drier),3
+place(toothbrush),2
+pull(bench),6
+pull(backpack),5
+pull(umbrella),4
+pull(handbag),4
+pull(tie),3
+pull(suitcase),6
+pull(frisbee),3
+pull(skis),6
+pull(snowboard),6
+pull(sports ball),3
+pull(kite),4
+pull(baseball bat),5
+pull(baseball glove),4
+pull(skateboard),5
+pull(tennis racket),4
+pull(bottle),2
+pull(wine glass),2
+pull(cup),2
+pull(fork),2
+pull(knife),2
+pull(spoon),2
+pull(bowl),3
+pull(banana),2
+pull(apple),2
+pull(sandwich),3
+pull(orange),2
+pull(broccoli),3
+pull(carrot),2
+pull(hot dog),3
+pull(pizza),3
+pull(donut),2
+pull(cake),3
+pull(chair),5
+pull(couch),7
+pull(potted plant),4
+pull(dining table),8
+pull(laptop),3
+pull(mouse),2
+pull(remote),3
+pull(keyboard),3
+pull(cell phone),2
+pull(toaster),3
+pull(book),3
+pull(vase),3
+pull(scissors),2
+pull(teddy bear),4
+pull(hair drier),3
+pull(toothbrush),2
+press(bench),6
+press(backpack),5
+press(umbrella),4
+press(handbag),4
+press(tie),3
+press(suitcase),6
+press(frisbee),3
+press(skis),6
+press(snowboard),6
+press(sports ball),3
+press(kite),4
+press(baseball bat),5
+press(baseball glove),4
+press(skateboard),5
+press(tennis racket),4
+press(bottle),2
+press(wine glass),2
+press(cup),2
+press(fork),2
+press(knife),2
+press(spoon),2
+press(bowl),3
+press(banana),2
+press(apple),2
+press(sandwich),3
+press(orange),2
+press(broccoli),3
+press(carrot),2
+press(hot dog),3
+press(pizza),3
+press(donut),2
+press(cake),3
+press(chair),5
+press(couch),7
+press(potted plant),4
+press(dining table),8
+press(laptop),3
+press(mouse),2
+press(remote),3
+press(keyboard),3
+press(cell phone),2
+press(toaster),3
+press(book),3
+press(vase),3
+press(scissors),2
+press(teddy bear),4
+press(hair drier),3
+press(toothbrush),2
+pour(bottle),4
+pour(wine glass),3
+pour(cup),3
+pour(bowl),3

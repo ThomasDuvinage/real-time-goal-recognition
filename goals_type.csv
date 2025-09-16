@@ -1,0 +1,27 @@
+object,type
+bench,twohands
+bear,twohands
+backpack,twohands
+suitcase,twohands
+skis,twohands
+snowboard,twohands
+kite,twohands
+baseball bat,twohands
+skateboard,twohands
+tennis racket,twohands
+chair,twohands
+couch,twohands
+potted plant,twohands
+dining table,twohands
+laptop,twohands
+keyboard,twohands
+vase,twohands
+bottle,pourable
+wine glass,pourable
+cup,pourable
+bowl,pourable
+frisbee,twohands
+sports ball,twohands
+pizza,twohands
+toaster,twohands
+umbrella,twohands
