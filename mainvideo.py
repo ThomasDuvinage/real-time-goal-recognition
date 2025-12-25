@@ -640,11 +640,11 @@ def filter_observations(list_of_observations, list_of_goals):
 video_path = "recorded_stream.svo"
 #yolo_model_path = "yolov8n.pt"
 #yolo_model_path = "yolov8n-seg.pt"
-yolo_model_path = "yolov11n-seg.pt"
+yolo_model_path = "yolo11n-seg.pt"
 VLM_model_name = "llava-phi3" 
 
 if not os.path.exists(yolo_model_path):
-    print("Download YOLOv8n-seg...")
+    print("Download YOLOv11n-seg...")
     yolo_model= YOLO(yolo_model_path)
     detectable_classes = list(yolo_model.names.values())
 
@@ -768,7 +768,7 @@ if __name__ == "__main__":
         if cluster_method == "clustering":
             yolo_model_path = "yolov8n.pt"
         elif cluster_method == "yolo":
-            yolo_model_path = "yolov11n-seg.pt"
+            yolo_model_path = "yolo11n-seg.pt"
         else:
             print("Invalid method. Please enter 'yolo' or 'clustering'.")
             exit()

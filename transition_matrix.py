@@ -165,7 +165,7 @@ if __name__ == "__main__":
     path_HMM="transition_proba_for_hmm.json"  
     list_of_actions = ["grab(object1)", "push(object1)", "place(object1)", "pull(object1)", "press(object1)"]
     pourable_csv_file = "goals_type.csv"   # CSV des types (object,type)
-    yolo_model_path = "yolov11n-seg.pt"
+    yolo_model_path = "yolo11n-seg.pt"
     object_list = get_yolo_object_list(yolo_model_path)
     print(f"[INFO] YOLO classes loaded: {len(object_list)} objects")
 
