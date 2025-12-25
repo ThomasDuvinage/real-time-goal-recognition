@@ -18,7 +18,7 @@ class HandPositionReader:
         self.right_thread.start()
 
     def _read_tf(self, to_frame, hand):
-        cmd = ["rosrun", "tf", "tf_echo", self.from_frame, to_frame]
+        cmd = ["ros2", "run", "tf2_ros", "tf2_echo", self.from_frame, to_frame]
         process = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True, bufsize=1)
 
         pattern = re.compile(r'Translation:\s+\[([-\d\.]+), ([-\d\.]+), ([-\d\.]+)\]')
